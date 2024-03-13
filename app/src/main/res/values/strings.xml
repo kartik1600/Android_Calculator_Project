@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="dots">...</string>
+    <string name="calculator">Calculator</string>
+    <string name="addition">+</string>
+    <string name="result">=</string>
+    <string name="minus">-</string>
+    <string name="c">C</string>
+    <string name="multi">*</string>
+    <string name="power">^</string>
+    <string name="sq">Sq</string>
+    <string name="rem">rem</string>
+    <string name="divide">/</string>
+    <string name="_1">1</string>
+    <string name="dot">.</string>
+    <string name="error">error</string>
+    <string name="value_exceeded">Value Exceeded</string>
+</resources>
